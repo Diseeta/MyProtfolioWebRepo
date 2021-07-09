@@ -92,6 +92,8 @@ ul.nav.navbar li a.w3ls-icon:hover {
 .image {
 	background:url(../images/banner.jpg)no-repeat;
     background-position:0px 0px;
+	width: 100%;
+  	height: auto;
 	text-align: left;
 	min-height: 100%;
 	background-size:cover;
